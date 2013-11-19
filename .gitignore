@@ -12,4 +12,3 @@ target/
 # ignore derby db
 *DerbyDB/
 derby.log
-/.settings
