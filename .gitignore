@@ -8,3 +8,8 @@ target/
 # ignore all files ending with ~
 *~
 ~*
+
+# ignore derby db
+*DerbyDB/
+derby.log
+/.settings
